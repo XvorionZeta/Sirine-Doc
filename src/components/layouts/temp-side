@@ -1,0 +1,39 @@
+
+        <h6 class="pb-2 text-sm font-bold">Components</h6>
+        <li class="text-sm"><router-link to="">Accordion</router-link></li>
+        <li class="text-sm"><router-link to="">Alerts</router-link></li>
+        <li class="text-sm"><router-link to="">Avatar</router-link></li>
+        <li class="text-sm"><router-link to="">Badges</router-link></li>
+        <li class="text-sm"><router-link to="">Button Group</router-link></li>
+        <li class="text-sm"><router-link to="">Buttons</router-link></li>
+        <li class="text-sm"><router-link to="">Cards</router-link></li>
+        <li class="text-sm"><router-link to="">Carousel</router-link></li>
+        <li class="text-sm"><router-link to="">Collapse</router-link></li>
+        <li class="text-sm"><router-link to="">Dropdown</router-link></li>
+        <li class="text-sm"><router-link to="">Gallery</router-link></li>
+        <li class="text-sm"><router-link to="">Headers</router-link></li>
+        <li class="text-sm"><router-link to="">Heading</router-link></li>
+        <li class="text-sm"><router-link to="">Hover Effect</router-link></li>
+        <li class="text-sm"><router-link to="">Icons</router-link></li>
+        <li class="text-sm"><router-link to="">Images</router-link></li>
+        <li class="text-sm"><router-link to="">List Groups</router-link></li>
+        <li class="text-sm"><router-link to="">Mask</router-link></li>
+        <li class="text-sm"><router-link to="">Modal</router-link></li>
+        <li class="text-sm"><router-link to="">Notifications</router-link></li>
+        <li class="text-sm"><router-link to="">Offcanvas</router-link></li>
+        <li class="text-sm"><router-link to="">Paragraphs</router-link></li>
+        <li class="text-sm"><router-link to="">Popover</router-link></li>
+        <li class="text-sm"><router-link to="">Progress</router-link></li>
+        <li class="text-sm"><router-link to="">Rating</router-link></li>
+        <li class="text-sm"><router-link to="">Scroll back to top Bottom</router-link></li>
+        <li class="text-sm"><router-link to="">Social buttons</router-link></li>
+        <li class="text-sm"><router-link to="">Spinners</router-link></li>
+        <li class="text-sm"><router-link to="">Stepper</router-link></li>
+        <li class="text-sm"><router-link to="">Tables</router-link></li>
+        <li class="text-sm"><router-link to="">Testimonial</router-link></li>
+        <li class="text-sm"><router-link to="">Timeline</router-link></li>
+        <li class="text-sm"><router-link to="">Toast</router-link></li>
+        <li class="text-sm"><router-link to="">Tooltip</router-link></li>
+        <li class="text-sm"><router-link to="">Typography</router-link></li>
+        <li class="text-sm"><router-link to="">Video</router-link></li>
+        <li class="text-sm"><router-link to="">Video Carousel</router-link></li>
